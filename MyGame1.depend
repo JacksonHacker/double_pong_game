@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1102459244 source:d:\codeblocks projects\mygame1\resource.rc
+	"resource.h"
+
+1102465374 d:\codeblocks projects\mygame1\resource.h
+
+1102458138 source:d:\codeblocks projects\mygame1\main.cpp
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"resource.h"
+	"mytypes.h"
+
+1102458630 source:d:\codeblocks projects\mygame1\mytypes.cpp
+
+1102447898 source:d:\codeblocks projects\mygame1\myfuncs.cpp
+	"myfuncs.h"
+
+1102458630 d:\codeblocks projects\mygame1\mytypes.cpp
+
+1102458310 d:\codeblocks projects\mygame1\myfuncs.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"mytypes.cpp"
+
+1102448064 d:\codeblocks projects\mygame1\myfuncs.h
+	"mytypes.h"
+	<windows.h>
+	<stdio.h>
+
+1102458040 d:\codeblocks projects\mygame1\mytypes.h
+
